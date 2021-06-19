@@ -1,1 +1,2 @@
-Weclome to dept. of ECE
+Weclome to dept. of ECE.
+We are ece 17.
